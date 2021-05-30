@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello and welcome to my github profile. I'm a full stack developer based out of NYC.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=notAbigDEEL&theme=dark)](https://git.io/streak-stats)
