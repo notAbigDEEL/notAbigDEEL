@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate full-stack developer from NYC</h3>
 
-- 🔭 I’m currently working on **Studio project**
+- 🔭 I’m currently working on **Nature Tours website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SASS/SCSS**
 
 - 📫 How to reach me **adeelbukhari@gmail.com**
 
