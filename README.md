@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **adeelbukhari@gmail.com**
 
-- My website: https://adeelbukhari.netlify.app/
+- My website: https://www.adeelbukhari.net
 
 <!--
 
