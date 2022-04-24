@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Adeel</h1>
 
-<h3 align="center">A passionate full-stack developer from NYC</h3>
+<h3 align="center"> I'm a creative, detail-oriented, software engineer with a deep interest in AI. I have a proven track record of creating and implementing successful front and back end web applications. </h3>
 
 - 🔭 I’m currently working on **Nature Tours website**
 
