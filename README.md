@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 <h3 align="center"> I'm a creative, detail-oriented, software engineer with a deep interest in AI. I have a proven track record of creating and implementing successful front and back end web applications. </h3>
 
-- 🔭 I’m currently working on **Nature Tours website**
+- 🔭 I’m currently working on **Note sharing app using the MERN stack**
 
-- 🌱 I’m currently learning **SASS/SCSS**
+- 🌱 I’m currently learning **node**
 
 - 📫 How to reach me **adeelbukhari@gmail.com**
 
