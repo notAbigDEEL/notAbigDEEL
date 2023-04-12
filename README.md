@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"> I'm a creative, detail-oriented, software engineer with a deep interest in AI. I have a proven track record of creating and implementing successful front and back end web applications. </h3>
 
-- 🔭 I’m currently working on: **Note sharing app utilizing the MERN stack.**
+- 🔭 I’m currently working on: **booking system for yoga classes**
 
 - 🌱 I’m currently learning: **React**
 
